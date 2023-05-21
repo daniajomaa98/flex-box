@@ -1,0 +1,46 @@
+
+*{
+    box-sizing: border-box;
+
+}
+body{
+    margin: 0;
+    padding:0 ;
+}
+.contain{
+    width:1365px;
+    height: 100px;
+    background-color: #3574E6;
+    font-size: 35px;
+    display: flex;
+    justify-content: space-around;
+   
+}
+.list{
+    list-style:none;
+}
+.navbar{
+    color: aliceblue;
+    display: flex;
+    display: inline;
+}
+
+.list li{
+    margin-left: 5px;
+}
+.flexbox{
+      color: aliceblue;
+   padding-top: 35px;
+  
+  }
+
+
+
+
+
+
+
+
+
+
+
